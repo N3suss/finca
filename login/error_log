@@ -1,0 +1,168 @@
+[22-Jul-2025 11:22:14 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 11:22:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:33:02 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:33:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:57:44 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:57:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:57:44 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:57:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:57:51 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:57:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:57:52 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:57:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:01 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:10 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:11 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:22 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 12:58:23 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 12:58:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:17:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:17:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:17:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:17:00 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:21:40 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:21:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:27:18 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:27:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:27:19 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:27:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:27:20 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:27:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55
+[22-Jul-2025 15:31:46 UTC] PHP Warning:  Undefined array key "user_id" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 51
+[22-Jul-2025 15:31:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php:55
+Stack trace:
+#0 /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php(55): PDOStatement->execute()
+#1 /home/cqmlyvuixf/developer.n3suss.online/login/includes/auth.php(46): logActivity()
+#2 /home/cqmlyvuixf/developer.n3suss.online/login/logout.php(6): logout()
+#3 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/config.php on line 55

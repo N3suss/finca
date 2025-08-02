@@ -1,0 +1,92 @@
+[22-Jul-2025 15:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:25:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:25:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:26:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:26:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:26:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:26:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:26:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:30:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:30:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:57:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:57:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:57:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 15:57:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4
+[22-Jul-2025 15:57:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/sidebar.php on line 3
+[22-Jul-2025 15:57:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_NAME" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/header.php on line 4
+[22-Jul-2025 16:20:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/developer.n3suss.online/login/includes/footer.php on line 4

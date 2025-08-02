@@ -1,0 +1,23 @@
+{
+    "sexo": [
+        "HEMBRA",
+        "MACHO"
+    ],
+    "raza": [
+        "DORPER",
+        "KATAHDIN",
+        "PELIBUEY",
+        "SUFFOLK"
+    ],
+    "tipo_animal": [
+        "OVEJA",
+        "CARNERO",
+        "CORDERO"
+    ],
+    "estado_prenaz": [
+        "n\/a",
+        "PRE\u00d1ADA",
+        "NO PRE\u00d1ADA",
+        "LACTANCIA"
+    ]
+}

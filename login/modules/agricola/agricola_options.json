@@ -1,0 +1,45 @@
+{
+    "tipo_movimiento": [
+        "INGRESO",
+        "EGRESO",
+        "TRASLADO"
+    ],
+    "desglose_movimiento": [
+        "PRODUCCI\u00d3N AGR\u00cdCOLA",
+        "COMPRA",
+        "VENTA",
+        "TRASLADO INTERNO"
+    ],
+    "ubicacion": [
+        "FINCA 1",
+        "FINCA 2",
+        "BODEGA CENTRAL"
+    ],
+    "lugar_prod": [
+        "CAFETALES",
+        "POTREROS",
+        "INVERNADERO",
+        "VIVEROS"
+    ],
+    "rubro": [
+        "CAF\u00c9",
+        "LECHE",
+        "HORTALIZAS",
+        "FRUTALES"
+    ],
+    "producto": [
+        "CAF\u00c9 MADURO",
+        "CAF\u00c9 VERDE",
+        "LECHE FRESCA",
+        "TOMATE",
+        "LECHUGA"
+    ],
+    "unidad_medida": [
+        "quintal",
+        "libra",
+        "gal\u00f3n",
+        "litro",
+        "unidad",
+        "Carton"
+    ]
+}

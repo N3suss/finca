@@ -1,0 +1,5 @@
+[24-Jul-2025 05:13:02 UTC] PHP Warning:  require_once(agricola/config_options.php): Failed to open stream: No such file or directory in /home/cqmlyvuixf/finca.n3suss.online/login/modules/agricola/admin_options.php on line 6
+[24-Jul-2025 05:13:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'agricola/config_options.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cqmlyvuixf/finca.n3suss.online/login/modules/agricola/admin_options.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cqmlyvuixf/finca.n3suss.online/login/modules/agricola/admin_options.php on line 6

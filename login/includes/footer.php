@@ -1,0 +1,6 @@
+<?php
+// includes/footer.php
+?>
+    <script src="<?= SITE_URL ?>assets/js/main.js"></script>
+</body>
+</html>
